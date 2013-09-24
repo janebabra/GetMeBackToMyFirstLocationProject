@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Get Me Back To My First Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="updateLocation">Mark My Start Position</string>
+    <string name="app_title">Get Me Back</string>
+
+</resources>
