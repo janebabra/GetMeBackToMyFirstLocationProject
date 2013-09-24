@@ -3,6 +3,8 @@ GetMeBackToMyFirstLocationProject
 
 Google Map v2 integration in Android Studio using Google Play Service
 
+https://plus.google.com/photos/106402115626832457069/albums/5927172671095219025?authkey=CM_n9YDfysHBjwE
+
 This Android Studio Sample Code is a part of the new Chapter "Google Play Service" in
 
 "Getting Started with Android Studio"
