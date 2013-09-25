@@ -1,7 +1,7 @@
 GetMeBackToMyFirstLocationProject
 =================================
 
-Google Map v2 integration in Android Studio using Google Play Service
+Google Map v2 integration in Android Studio Project using Google Play Service
 
 ![alt tag](https://lh3.googleusercontent.com/WmfK0hZ1ygsxAh4FLalrf0L_DW0llMgdw3CrxMRuoug=w144-h207-p-no)
 
